@@ -1,12 +1,19 @@
 # Hi there
 
-System / Cloud engineer, Open Source advocate, DevOps practitioner and software developer at part-time, living in Switzerland
+## Who am I ?
+
+I'm a system & cloud engineer, open source advocate, DevOps practitioner and software developer at part-time, living in Switzerland :switzerland: 
 
 ## What I'm working on ?
 
-- I spend most of my spare time working [Bacula-Web](https://www.bacula-web.org) open source project (GPLv2 license)
-- I've also made dozens of contributions to different open source project
-- During few years, I used to build and maintain rpm and deb packages for [Bacula](https://wwww.bacula.org) open source project
-  More details are available [here](https://www.bacula.org/bacula-binary-package-download/)
+- I spend most of my spare time working on the open source project [Bacula-Web](https://www.bacula-web.org) (GPL v2 license)
+- I've also made dozens of contributions] to different open source project
+- Over the past few years, I used to build and maintain packages for the [Bacula](https://wwww.bacula.org) open source project
 
-If you enjoy using Bacula-Web and would like to support this project, please consider [sponsoring me](https://github.com/sponsors/dfranco)
+  You can find more details about it from [this link](https://www.bacula.org/bacula-binary-package-download/) on Bacula.org website.
+
+If you enjoy using my contributions and would like to support my effort, please consider supporting my sponsoring me using GitHub [sponsor](https://github.com/sponsors/dfranco) button.
+
+You can also support the Bacula-Web project trough [BuyMeACoffee](https://buymeacoffee.com/baculaweb).
+
+Thanks in advance for your support :heart:
