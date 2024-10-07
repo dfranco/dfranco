@@ -4,14 +4,9 @@
 
 I'm a system & cloud engineer, open source advocate, DevOps practitioner and software developer (at part-time) living in :switzerland: 
 
-## Few of my OSS projects
+## What keeps me busy ?
 
-- [Bacula-Web](https://www.bacula-web.org)
-- [mhvtl-gui](https://github.com/dfranco/mhvtl-gui)
-
-## What I'm currently working on
-
-### Bacula-Web project
+### Bacula-Web project OSS project
 
 Most of my spare time is dedicated to the [Bacula-Web](https://www.bacula-web.org) open source project.
 
@@ -22,9 +17,20 @@ community for free.
 For further details, check the [Bacula](https://wwww.bacula.org) project website, and [this link](https://www.bacula.org/bacula-binary-package-download/) for the
 .rpm and .deb packages.
 
+### mhVTL GUI
+
+[mhvtl](https://github.com/markh794/mhvtl) is a Linux based Virtual Tape Library maintained by [Mark Harvey](https://github.com/markh794).
+
+I'll start soon to work on a fork of the web UI.
+Here's the [mhvtl-gui](https://github.com/dfranco/mhvtl-gui) repository on GitHub for further details.
+
 ### Other contributions
 
 I also try to help others with pull requests, answering GH issues, commiting on other OSS projects here on GitHub, but also on different platform.
+
+Here's my GitHub stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dfranco)](https://github.com/dfranco/github-readme-stats)
 
 ### Coming soon
 
